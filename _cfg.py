@@ -1,0 +1,6 @@
+BOMB_RECUR_FREQUENCY_IN_MINUTES = 0.1
+FUNCTION_TIMEOUT_IN_MINUTES = 1
+
+SCRIPTS_PATH_LIS = [
+    "/home/nubela/some_sample.py"
+]
