@@ -1,5 +1,5 @@
 from bomb.lib import spawn_functions
-from cfg import FUNCTION_TIMEOUT_IN_MINUTES
+from bomb_cfg import FUNCTION_TIMEOUT_IN_MINUTES
 from run import get_functions
 
 

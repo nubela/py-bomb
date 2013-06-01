@@ -5,7 +5,7 @@ import os
 from time import sleep
 import sys
 from bomb.lib import spawn_functions, _spawn
-from cfg import SCRIPTS_PATH_LIS, BOMB_RECUR_FREQUENCY_IN_MINUTES, FUNCTION_TIMEOUT_IN_MINUTES
+from bomb_cfg import SCRIPTS_PATH_LIS, BOMB_RECUR_FREQUENCY_IN_MINUTES, FUNCTION_TIMEOUT_IN_MINUTES
 
 
 def get_functions():
